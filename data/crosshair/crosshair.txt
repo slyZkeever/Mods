@@ -1,0 +1,5 @@
+[Crosshair]
+{
+	[Geometry]
+	ExportData = files\crosshairs.kf2;
+}
